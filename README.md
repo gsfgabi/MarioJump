@@ -5,6 +5,6 @@
 Simples jogo do Mario, desenvolvido com HTML, CSS e JavaScript. Apertando qualquer tecla, o Mario deve pular. 
 Feito com auxílio do canal no youtube: Manual do Dev 
 
-<a href="gsfgabi.github.io/MarioJump">Link do Jogo</a>
+<a href="gsfgabi.github.io/MarioJump/">Link do Jogo</a>
 
 
