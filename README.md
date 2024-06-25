@@ -8,7 +8,7 @@ Feito com auxílio do canal no youtube: Manual do Dev
 <h2>:video_game:Link do Jogo</h2>
 <a href="https://gsfgabi.github.io/MarioJump/"><img style="height:60px" src="https://img.icons8.com/?size=100&id=19601&format=png&color=000000"/></a>
 
-<br><br>
+<h2>🧑‍💻 Tecnologias Utilizadas:</h2>
 <div>
   <img style="height:60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png"       
    alt="LogoTipo HTML"/>
